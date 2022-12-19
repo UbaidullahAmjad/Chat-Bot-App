@@ -1,0 +1,32 @@
+2020-07-17 12:14:53,914 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 12:14:53,915 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 12:14:53,922 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 12:14:53,923 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 12:14:53,923 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\xamp\htdocs\chat_bot\Table\biometric/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=78ec2d0d-cc87-4cf2-9651-8541c61a3c52
+- uuid=221b13a0-4099-40db-ad97-c7d3eb110fc6
+- client_session_id=e683fb87-8637-4b65-8f48-5ee4abf9ae20
+- device_id=android-f0522cd16f3458a1
+2020-07-17 12:14:53,924 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 12:14:55,768 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 12:14:56,480 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 12:14:57,095 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-07-17 12:14:57,704 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-07-17 12:14:58,727 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/inbox/ returned response: <Response [200]>
+2020-07-17 12:14:59,455 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-07-17 12:15:00,468 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/?limited_activity=true&show_su=true returned response: <Response [200]>
+2020-07-17 12:15:01,082 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/profile_notice/ returned response: <Response [200]>
+2020-07-17 12:15:02,008 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: discover/explore/ returned response: <Response [200]>
+2020-07-17 12:15:02,016 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 12:15:02,016 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\xamp\htdocs\chat_bot\Table\biometric/config/usmanaslam406.checkpoint
+2020-07-17 12:15:02,746 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/arsalan.ak47/usernameinfo/ returned response: <Response [200]>
+2020-07-17 12:15:03,270 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 2033130243.
+2020-07-17 12:15:03,271 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "2033130243", "radio_type": "wifi-none", "device_id": "android-f0522cd16f3458a1", "_uuid": "221b13a0-4099-40db-ad97-c7d3eb110fc6", "_uid": "37139012092", "_csrftoken": "LmqPINSSBnClBv5u9PvS4gt3dCJfB7US"}
+2020-07-17 12:15:04,569 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/2033130243/ returned response: <Response [200]>
+2020-07-17 12:15:04,569 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 2033130243.
+2020-07-17 12:15:05,589 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/37139012092/info/ returned response: <Response [200]>
+2020-07-17 12:15:06,309 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/37139012092/following/?max_id=&ig_sig_key_version=4&rank_token=37139012092_221b13a0-4099-40db-ad97-c7d3eb110fc6 returned response: <Response [200]>
+2020-07-17 12:15:06,311 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\xamp\htdocs\chat_bot\Table\biometric/config/usmanaslam406.checkpoint
+2020-07-17 12:15:06,314 - instabot version: 0.117.0 (bot) - INFO - Total follows: 1/72
+2020-07-17 12:15:06,314 - instabot version: 0.117.0 (bot) - INFO - Total requests: 35

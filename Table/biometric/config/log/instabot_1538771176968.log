@@ -1,0 +1,17 @@
+2020-07-17 12:02:10,342 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 12:02:10,342 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 12:02:11,562 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 12:02:11,562 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 12:02:11,562 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\xamp\htdocs\chat_bot\Table\biometric/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=78ec2d0d-cc87-4cf2-9651-8541c61a3c52
+- uuid=221b13a0-4099-40db-ad97-c7d3eb110fc6
+- client_session_id=e683fb87-8637-4b65-8f48-5ee4abf9ae20
+- device_id=android-f0522cd16f3458a1
+2020-07-17 12:02:11,564 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 12:02:13,444 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 12:02:14,195 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 12:02:14,199 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 12:02:14,200 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\xamp\htdocs\chat_bot\Table\biometric/config/usmanaslam406.checkpoint
+2020-07-17 12:02:20,594 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\xamp\htdocs\chat_bot\Table\biometric/config/usmanaslam406.checkpoint
+2020-07-17 12:02:20,595 - instabot version: 0.117.0 (bot) - INFO - Total requests: 31
